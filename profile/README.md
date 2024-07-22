@@ -12,5 +12,3 @@ If you have any questions, need more information, or are interested in collabora
 *Please note that our website is currently under development, and our email server is not yet operational.*
 
 ---
-
-*Stratnetix Solutions – Shaping the future of technology.*
