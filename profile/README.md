@@ -1,6 +1,6 @@
 # STRATNETIX SOLUTIONS
 
-Welcome to the official GitHub organization of **Stratnetix Solutions**! 🎉
+Welcome to the official GitHub organization profile of **Stratnetix Solutions**! 🎉
 
 ## About Us
 
